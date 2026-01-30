@@ -1,0 +1,63 @@
+# HTML Resume Page
+
+This project is a simple **HTML Resume Page** created using **semantic HTML5 elements**.  
+It represents a personal resume layout suitable for beginners learning HTML structure and best practices.
+
+---
+
+## Technologies Used
+
+- HTML5
+- Semantic HTML elements (`header`, `main`, `section`, `footer`)
+- Tables and Lists
+
+---
+
+##  Features
+
+- Clean and structured resume layout
+- Uses semantic HTML for better readability and accessibility
+- Includes the following sections:
+  - About Me
+  - Skills
+  - Experience
+  - Projects
+  - Education
+  - Contact Information
+- Beginner-friendly and easy to understand code
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 🚀 How to Run the Project
+
+1. Download or clone the repository
+2. Open the `index.html` file in any web browser
+3. View the resume page
+
+---
+
+## 🎯 Learning Outcome
+
+- Understanding basic HTML document structure
+- Using semantic HTML5 tags correctly
+- Creating tables and lists
+- Writing clean and readable HTML code
+
+---
+
+## 👤 Author
+
+Deepak Kumar
+x ->deepaks0611
+linkedin -> deepaks0611
+
+---
+
+## 📜 License
+
+This project is for learning and practice purposes only.
+
